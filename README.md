@@ -15,8 +15,6 @@ Esse tutorial é para você que é aluno ou aluna do Cypress Skills, testando a 
 
 ### 1. Abra o terminal  
 
-Use o atalho `Ctrl + Alt + T` para abrir o terminal no seu sistema Linux.  
-
 ### 2. Faça um backup do arquivo hosts (opcional)  
 
 Sempre é bom garantir que o arquivo original esteja seguro. Para isso, execute:  
